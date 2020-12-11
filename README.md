@@ -12,3 +12,6 @@ Before you run it for the first time, press the button on your Hue Bridge.
 To find the IP address of your Hue Bridge:
 1. Open the Hue App on your phone.
 2. Go to settings > Hue Bridges and click the i.
+
+# Screenshot
+![](Example.png)
